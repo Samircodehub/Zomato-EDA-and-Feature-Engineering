@@ -17,5 +17,5 @@ where mean and sigma are the average value and standard deviation of a particula
 where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, and IQR represents the inter-quartile range and given by Q3 – Q1.
 
 ### Techniques for outlier detection and removal:
-PDF -> 
-Web link -> https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
+* PDF -> feature-engineering-how-to-detect-and-remove-outliers-with-python-code
+* Web link -> https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
