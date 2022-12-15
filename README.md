@@ -23,6 +23,7 @@ where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, an
 
 # What is a Box Plot?
  Display variation in a set of data.
+ The box plot distribution will explain how tightly the data is grouped, how the data is skewed, and also about the symmetry of data.
 
 ![image](https://user-images.githubusercontent.com/108605935/207808262-e84a6482-aaf3-4895-8a36-68e22ab2073c.png)
 
@@ -35,3 +36,11 @@ where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, an
 * Third quartile – the value below which the lower 75% of the data exist
 * Maximum – the maximum value in the data set
  
+![image](https://user-images.githubusercontent.com/108605935/207810278-beeab5f3-b7ea-4430-9d57-3248be9c17ea.png)
+
+* Positively Skewed: If the distance from the median to the maximum is greater than the distance from the median to the minimum, then the box plot is positively skewed.
+
+* Negatively Skewed: If the distance from the median to minimum is greater than the distance from the median to the maximum, then the box plot is negatively skewed.
+
+* Symmetric: The box plot is said to be symmetric if the median is equidistant from the maximum and minimum values.
+
