@@ -26,6 +26,9 @@ where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, an
 
 ![image](https://user-images.githubusercontent.com/108605935/207808262-e84a6482-aaf3-4895-8a36-68e22ab2073c.png)
 
+![image](https://user-images.githubusercontent.com/108605935/207809616-344cf122-904e-4f33-879d-5dc4b7230944.png)
+
+
 * Minimum – The minimum value in the data set
 * First quartile – The value below which the lower 25% of the data exist
 * Median – the value below which the lower 50% of the data exist
