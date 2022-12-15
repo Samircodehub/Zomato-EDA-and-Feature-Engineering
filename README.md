@@ -19,3 +19,16 @@ where Q1 and Q3 are the 25th and 75th percentile of the dataset respectively, an
 ### Techniques for outlier detection and removal:
 * PDF -> feature-engineering-how-to-detect-and-remove-outliers-with-python-code
 * Web link -> https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
+
+
+# What is a Box Plot?
+ Display variation in a set of data.
+
+![image](https://user-images.githubusercontent.com/108605935/207808262-e84a6482-aaf3-4895-8a36-68e22ab2073c.png)
+
+* Minimum – The minimum value in the data set
+* First quartile – The value below which the lower 25% of the data exist
+* Median – the value below which the lower 50% of the data exist
+* Third quartile – the value below which the lower 75% of the data exist
+* Maximum – the maximum value in the data set
+ 
